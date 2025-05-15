@@ -168,7 +168,7 @@ const HomePage = () => {
                 width={550}
                 height={500}
                 alt="Students discussing career options"
-                className="w-full max-w-[500px] mx-auto rounded-xl object-contain"
+                className="w-full max-w-[525px] mx-auto rounded-xl object-contain"
               />
 
             </div>
