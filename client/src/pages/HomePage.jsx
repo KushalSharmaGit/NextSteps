@@ -166,9 +166,9 @@ const HomePage = () => {
               <img
                 src="/image/hero.jpg"
                 width={550}
-                height={550}
+                height={500}
                 alt="Students discussing career options"
-                className="w-full max-w-[550px] mx-auto rounded-xl object-contain"
+                className="w-full max-w-[500px] mx-auto rounded-xl object-contain"
               />
 
             </div>
